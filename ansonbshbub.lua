@@ -2,7 +2,7 @@ Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Loco-CTO/Sc
 
 do
     Gui = Library:Create({
-        Name = "UI Lib", -- String
+        Name = "Anson Hub", -- String
         ShadowColor = Color3.new(0, 0, 0), -- Color3
         ToggleKey = Enum.KeyCode.RightShift -- Enum.Keycode
     })
